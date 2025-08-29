@@ -22,7 +22,19 @@ This project analyzes 65 years of historical GDP data (1960-2024) to forecast Ca
 - Future projections through 2050
 - Visualization of historical vs predicted values
 
+## Visualizations
+The model generates:
+- Historical GDP trends
+- Actual vs Predicted comparisons
+- Residual analysis plots
+- 2050 projections chart
+
+## Data Source
+World Bank GDP data (NY.GDP.MKTP.CD indicator)
 ## Usage
+
 ```python
 # Run the Jupyter notebook
 jupyter notebook gdp_canada_prediction.ipynb
+
+
